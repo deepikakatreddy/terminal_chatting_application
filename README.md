@@ -20,13 +20,13 @@ It's designed to be lightweight and easy to use, making it ideal for environment
 1. **Start the server:**
     Open a terminal and run:
     ```bash
-    python server.py
+    python chat_server.py
     ```
 
 2. **Start a client:**
     Open a new terminal for each client and run:
     ```bash
-    python client.py
+    python chat_client.py
     ```
 
 3. **Chat:**
